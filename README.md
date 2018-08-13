@@ -1,6 +1,6 @@
 zkui - Zookeeper UI Dashboard
 ====================
-A UI dashboard that allows CRUD operations on Zookeeper.
+A UI dashboard that allows CRUD operations on Zookeeper.(zookeeper的界面管理工具）
 
 Requirements
 ====================
